@@ -6,7 +6,7 @@ export default [
   },
   {
     key: 'francisca', name: 'Francisca', lv: 1, effect: 'hit',
-    hp: 30, atk: 2, def: 2, dex: 4, agi: 4,
+    hp: 99, atk: 99, def: 99, dex: 99, agi: 99,
     up: { hp: 85, atk: 75, def: 80, dex: 90, agi: 100 }
   },
   {
